@@ -1,4 +1,4 @@
-## Payroll Project
+# Payroll Project
 
 This Google Sheets Payroll Project automates employee salary calculations and provides visual insights through a dashboard.
 
@@ -18,11 +18,11 @@ Calculates Basic Pay, DA (Dearness Allowance), HRA, PF, other allowances, deduct
 
 ## Skills Demonstrated
 
-Spreadsheet formulas for payroll calculations
+- Spreadsheet formulas for payroll calculations
 
-Data visualization using Google Sheets charts
+- Data visualization using Google Sheets charts
 
-Professional dashboard creation for HR reporting
+- Professional dashboard creation for HR reporting
 
 ## Note:
 The data used here is Dummy for practice purpose.
